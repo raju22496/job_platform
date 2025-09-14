@@ -1,0 +1,18 @@
+{
+  "name": "job-platform-client",
+  "version": "0.1.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.0",
+    "axios": "^1.3.0",
+    "date-fns": "^2.29.0",
+    "lucide-react": "^0.263.0",
+    "framer-motion": "^10.0.0"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21"
+  }
+}
